@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.summarycard {
+  background-color: transparent;
+  height: 10vh;
+  margin: 20px;
+  align-self: flex-end;
+  padding: 10px;
+  width: 150px;
+}
+
+.amount {
+  color: #616e7c;
+  font-size: 15px;
+  font-family: 'Roboto';
+  margin-bottom: 5px;
+}
+
+.cartitems {
+  color: #616e7c;
+  font-size: 10px;
+  font-family: 'Roboto';
+  margin-bottom: 5px;
+}
+
+.summarybutton{
+  background-color: #0b69ff;
+  color:  #ffffff;
+  font-size: 12px;
+  font-family: "Roboto";
+  height: 20px;
+  width: 100%;
+  border: 0px;
+  border-radius: 12px;
+  margin: 5px;
+
+}
